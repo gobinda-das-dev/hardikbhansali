@@ -1,0 +1,8 @@
+@font-face {
+   font-family: ThatThatNewPixelFamily-Round;
+   src: url(./ThatThatNewPixelFamily-Round.otf);
+}
+
+* {
+   font-family: ThatThatNewPixelFamily-Round;
+}
